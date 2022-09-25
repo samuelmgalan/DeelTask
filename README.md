@@ -99,5 +99,6 @@ Thank you and good luck! 🙏
 
 ## Personal Notes
 
+- I added a Postman collection that I used to test all the endpoints
 - I didn't have time to write some tests. My knowledge is using Jest.
 - I assumed some things and left comments on the code explaining them.
